@@ -76,7 +76,7 @@
     "gatsby-plugin-react-helmet": "4.3.0",
     "gatsby-plugin-remove-serviceworker": "1.0.0",
     "gatsby-remark-prismjs": "4.2.0",
-    "gatsby-source-filesystem": "3.3.0",
+    "gatsby-source-filesystem": "3.4.0",
     "gatsby-transformer-remark": "3.2.0",
     "i18next": "20.2.2",
     "jquery": "3.6.0",
