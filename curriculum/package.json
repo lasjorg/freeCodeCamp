@@ -59,7 +59,7 @@
     "readdirp": "3.6.0",
     "rehype": "11.0.0",
     "string-similarity": "4.0.4",
-    "unist-util-visit": "2.0.3",
+    "unist-util-visit": "4.1.0",
     "vfile": "4.2.1"
   }
 }
